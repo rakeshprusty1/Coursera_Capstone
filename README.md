@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repo for the Final Capstone
+This is the repository for the Final Capstone Project for IBM Professional Data Science Specialization
